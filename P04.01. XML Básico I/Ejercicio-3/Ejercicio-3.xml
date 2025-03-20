@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Adam Samadi Serroukh
+Curso: 1ºDAM
+Fecha: 19/03/2025
+Ejercicio: Ejercicio 3 XML BÁSICO I
+-->
+
+<!-- Lista de libros. -->
+<libros>
+    <libro titulo="Libertad o Tiranía" autor="Cristína Martínez Jiménez" año="2024"/>
+    <libro titulo="Mein Kampf" autor="Adolf Hitler" año="1925"/>
+    <libro titulo="La verdad de la Pandemia" autor="Cristína Martínez Jiménez" año="2022"/>
+    <libro titulo="El Plan Maestro" autor="Javier Sierra" año="2025" />
+    <libro titulo="Los Dueños del Planeta" autor="Cristína Martínez Jiménez" año="2023"/>
+</libros>

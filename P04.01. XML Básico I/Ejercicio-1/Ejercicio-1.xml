@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Adam Samadi Serroukh
+Curso: 1ºDAM
+Fecha: 19/03/2025
+Ejercicio: Ejercicio 1 XML BÁSICO I
+-->
+
+<!-- Lista de datos de países. -->
+<ciudades>
+    <ciudad continente="Asia">
+        <nombre>Nueva Delhi</nombre>
+        <pais>India</pais>
+    </ciudad>
+    <ciudad continente="Europa">
+        <nombre>Lisboa</nombre>
+        <pais>Portugal</pais>
+    </ciudad>
+    <ciudad continente="África">
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</pais>
+    </ciudad>
+</ciudades>
